@@ -1,0 +1,2 @@
+alias ll='ls -lt'
+alias pst='ps -aef --forest'
