@@ -1,2 +1,4 @@
 alias ll='ls -lt'
 alias pst='ps -aef --forest'
+alias gs='git status'
+alias gp='git pull'
